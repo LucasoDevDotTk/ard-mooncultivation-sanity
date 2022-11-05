@@ -5,7 +5,7 @@
   "description": "",
   "main": "package.json",
   "author": "Lucas Nguyen <lucasoAlt@outlook.com>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build"
@@ -27,5 +27,9 @@
     "react-dom": "^17.0",
     "styled-components": "^5.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasoDevDotTk/ard-mooncultivation-sanity.git"
+  }
 }
